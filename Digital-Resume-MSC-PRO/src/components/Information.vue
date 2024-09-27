@@ -217,7 +217,7 @@ li {
     background-color: #ffe7d4;
     margin: 2%;
     padding-left: 5vw;
-    width: 95vw;
+    width: 90vw;
     color: #424242;
 
 }
