@@ -306,7 +306,7 @@ a {
     .title-cv {
         margin-top: 10vw;
         margin-bottom: 10vw;
-        font-size: 8.5vw;
+        font-size: 8vw;
 
     }
 
