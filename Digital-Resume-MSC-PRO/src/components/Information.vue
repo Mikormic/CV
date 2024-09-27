@@ -248,10 +248,14 @@ li {
 
 a:visited {
     text-decoration: none !important;
+    color: #424242;
+    font-weight: bold
 }
 
 a {
     text-decoration: none !important;
+    color: #424242;
+    font-weight: bold
 }
 
 #mike {
