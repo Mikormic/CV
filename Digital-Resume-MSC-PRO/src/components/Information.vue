@@ -132,7 +132,7 @@ body {
 }
 
 h4 {
-    font-weight: lighter;
+    font-weight: 500;
 }
 
 h3 {
