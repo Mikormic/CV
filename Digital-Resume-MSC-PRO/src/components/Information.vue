@@ -19,13 +19,13 @@
                     <div id="roww" class="row"></div>
                     <div id="btnn">
                         <v-btn class="bg-blue-accent-1 text-center bouton"><a href="#info">INFORMATION</a></v-btn>
-                        <v-btn class="bg-blue-accent-1 text-center bouton"><a href="#cali">QUALITE</a></v-btn>
+                        <v-btn class="bg-blue-accent-1 text-center bouton"><a href="#cali">QUALITÉS</a></v-btn>
                         <v-btn class="bg-blue-accent-1 text-center bouton"><a href="#centre">HOBBYS</a></v-btn>
                     </div>
                 </v-card>
                 <v-card id="exp" class="card">
                     <v-img class="pp" :width="200" src="../assets/Epitech.png"></v-img>
-                    <h1 class="title-cv">EXPERIENCE PROFESSIONNELLE</h1>
+                    <h1 class="title-cv">EXPÉRIENCES PROFESSIONNELLES</h1>
                     <h3>Alternant Release and Build specialist Assistant | Ubisoft</h3>
                     <p class="date">Montreuil | Sep 2023 - Août 2024</p>
                     <ul>
@@ -78,7 +78,7 @@
                     <h3>Niveau Bac S</h3>
                     <p class="date">Champs-sur-marne | 2014 - 2017</p>
                     <p>Lycée René Descartes</p>
-                    <h1 class="title-cv">COMPETENCES</h1>
+                    <h1 class="title-cv">COMPÉTENCES</h1>
                     <h3>Informatique:</h3>
                     <h3>Language:</h3>
                     <p>JavaScript, python, JAVA, Html, CSS, PHP, MySQL, C</p>
@@ -99,13 +99,13 @@
                 <h4><a class="link-info" href="https://github.com/Mikormic/" target="_blank">github.com/Mikormic</a></h4>
                 <h4>26 ans</h4>
                 <div class="row"></div>
-                <h1 id="cali">QUALITES</h1>
+                <h1 id="cali">QUALITÉS</h1>
                 <h1>PERSONELLES</h1>
                 <h4>Polyvalent</h4>
                 <h4>Résilient</h4>
                 <h4>Esprit d'équipe</h4>
                 <div class="row"></div>
-                <h1 id="centre">CENTRE D'INTERÊTS</h1>
+                <h1 id="centre">CENTRE D'INTÉRÊTS</h1>
                 <h4>Boxe, musculation</h4>
                 <h4>Streamer Twitch</h4>
                 <h4>Manga, Anime</h4>
@@ -352,7 +352,7 @@ a {
     }
 
     #exp {
-        width: 69vw;
+        width: 71vw;
         margin-right: 1vw
     }
 
