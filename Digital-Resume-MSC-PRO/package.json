@@ -4,8 +4,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
-    "preview": "vite preview",
-    "lint": "eslint . --fix --ignore-path .gitignore"
+    "preview": "vite preview --host",
+    "lint": "eslint . --fix --ignore-path .gitignore",
+    "start": "vite preview"
   },
   "dependencies": {
     "@mdi/font": "7.4.47",
